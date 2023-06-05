@@ -1,5 +1,5 @@
-###This module creates the resources and automates ingestion of ECS  Application Autoscaling events to the cloud watch log.
-###And creates a CloudWatch log insight query to generate statistics on the scaling events.
+### This module creates the resources and automates ingestion of ECS  Application Autoscaling events to the cloud watch log.
+### And creates a CloudWatch log insight query to generate statistics on the scaling events.
 
 
 ## Usage
